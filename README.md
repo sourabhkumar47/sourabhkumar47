@@ -1,4 +1,4 @@
-### Hi there 👋 @sourabhkumar47
+### Hi there 👋 
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Kotlin
