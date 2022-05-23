@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sourabh.47512@gmail.com**
 
-- ⚡ Fun fact **There are around 700 separate programming languages**
+- ⚡ Fun fact **The first programmer in the entire world was a woman. Her name was Ada Lovelace and she was born in 1815.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sourabh47"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sourabh47" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkumar47&show_icons=true&locale=en" alt="sourabhkumar47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkumar47&" alt="sourabhkumar47" /></p>
