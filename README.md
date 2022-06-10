@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sourabh.47512@gmail.com**
 
-- ⚡ Fun fact **The first programming language was called **FORTRAN**.It was developed by a team lead by Mr. John Backus, an American computer scientist. First appearing in **1964**, FORTRAN is still in use today.**
+- ⚡ Fun fact **"Codeing is my warnup, Debugging is my cardio" 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
