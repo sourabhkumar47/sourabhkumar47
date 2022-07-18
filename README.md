@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sourabh.47512@gmail.com**
 
-- ⚡ Fun fact **"Codeing is my warnup, Debugging is my cardio" 😅**
+- ⚡  **"Who is taking you life decisions - You or Algorithm ?" **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
