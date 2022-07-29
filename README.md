@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kumar</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A coding enthusiast. I also enjoy improving my skills by learning new skills and applying them to new projects.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkumar47&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkumar47" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/sourabhkumar47" target="blank"><img src="https://img.shields.io/twitter/follow/sourabhkumar47?logo=twitter&style=for-the-badge" alt="sourabhkumar47" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+* 📱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Kotlin , DSA**
+* 💬 Ask me about **``DSA``, ``Android Development``**
 
-- 📫 How to reach me **sourabh.47512@gmail.com**
+* 📫 Reach me at **sourabh.47512@gmail.com**
 
-- ⚡ Who is taking you life decisions - You or Algorithm ?
+* 💌 Available for your next project
+
+* ⚡ Who is taking you life decisions - You or Algorithm ?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +36,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sourabh47"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sourabh47" /></a></p><br><br>
+
+## Projects made with ❤️ 👇
 
