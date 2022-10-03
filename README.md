@@ -15,12 +15,19 @@
 
 * ⚡ Who is taking you life decisions - You or Algorithm ?
 
+<!--
+Connect with me
+-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://twitter.com/sourabhkumar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabhkumar47" height="30" width="40" /></a><a href="https://linkedin.com/in/sourabhkumar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabhkumar47" height="30" width="40" /></a><a href="https://www.leetcode.com/sourabhkumar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabhkumar47" height="30" width="40" /></a><a href="https://instagram.com/sourabh.47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourabh.47" height="30" width="40" /></a><a href="https://dev.to/sourabhkumar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sourabhkumar47" height="30" width="40" /></a>
 </p>
 
+<!--
+Language and Tools section
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -29,14 +36,22 @@
 </a> 
 </p>
 
-
+<!-- top lang card -->
+<h3 align="left">Top language and Stats:</h3>
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkumar47&theme=tokyonight" alt="sourabhkumar47" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar47&langs_count=8&theme=tokyonight" alt="Top Languages" />
+<!--Streak count -->
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkumar47&theme=tokyonight" alt="Streak Counter" />
+
 </p>
+
+
+<!--
+Buy Me a coffee
+-->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sourabh47"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sourabh47" /></a></p><br><br>
-<br>
 <br>
 
 ## Projects made with ❤️ 👇
