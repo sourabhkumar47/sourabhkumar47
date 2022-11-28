@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sourabhkumar47" target="blank"><img src="https://img.shields.io/twitter/follow/sourabhkumar47?logo=twitter&style=for-the-badge" alt="sourabhkumar47" /></a> </p>
 
-* 📱 I’m currently learning **Android Development & Jetpack Compose**
+* 📱 I’m currently learning **Android Development-Jetpack Compose & DSA**
 
 * 💬 Ask me about **``DSA``, ``Android Development``**
 
