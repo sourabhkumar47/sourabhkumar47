@@ -1,4 +1,4 @@
- <img  style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://www.gstatic.com/devrel-devsite/prod/vdbc400b97a86c8815ab6ee057e8dc91626aee8cf89b10f7d89037e5a33539f53/android/images/lockup.svg" >
+ <img  style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" >
 
 <h1 align="center">Hi 👋, I'm Sourabh Kumar</h1>
 <h3 align="center">A coding enthusiast. I also enjoy improving my skills by learning new skills and applying them to new projects.</h3>
