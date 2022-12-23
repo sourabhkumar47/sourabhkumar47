@@ -11,7 +11,7 @@
 
 * 📱 I’m currently learning **Android Development-Jetpack Compose & DSA**
 
-* 💬 Ask me about **``DSA``, ``Android Development``**
+* 💬 Ask me about **``DSA``, ``Android Development - Jetpack Compose``**
 
 * 📫 Reach me at **sourabh.47512@gmail.com**
 
