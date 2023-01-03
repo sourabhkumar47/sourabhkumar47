@@ -1,9 +1,15 @@
- <img  style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" >
+
 
 <h1 align="center">Hi 👋, I'm Sourabh Kumar</h1>
 <h3 align="center">A coding enthusiast. I also enjoy improving my skills by learning new skills and applying them to new projects.</h3>
 
+<br>
+<br>
 
+ <img  style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://github.com/sourabhkumar47/sourabhkumar47/blob/main/8423124_3900527.jpg" 
+      align="right"
+      height="450"
+         width="450">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkumar47&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkumar47" /> </p> -->
 
