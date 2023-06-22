@@ -50,7 +50,7 @@ Language and Tools section
 <h3 align="left">Top language and Stats:</h3>
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar47&langs_count=8&theme=tokyonight(https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar47&layout=compact)" alt="Top Languages" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar47&langs_count=8&theme=tokyonight(https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkumar47)" alt="Top Languages" />
 <!--Streak count -->
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhkumar47&theme=tokyonight" alt="Streak Counter" />
 </p>
