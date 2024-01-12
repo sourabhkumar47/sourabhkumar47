@@ -23,7 +23,9 @@
 
 * 💌 Available for your next project
 
-* ⚡ Who is taking you life decisions - You or Algorithm ?
+* ⚡ Who is taking your life decisions - You or Algorithm?
+
+* 🌐 Learn more about what I do by visiting [my website!](https://sourabhkumar.tech/)
 
 <!--
 Connect with me
