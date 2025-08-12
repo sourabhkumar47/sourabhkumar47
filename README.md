@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/Sourabhkumar47" target="blank"><img src="https://img.shields.io/twitter/follow/Sourabhkumar47?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
-* 📱 I’m currently learning **Android Development-Jetpack Compose & DSA**
+* 📱 **Android Developer**
 
 * 💬 Ask me about **``DSA- JAVA``, ``Android Development - Jetpack Compose``**
 
