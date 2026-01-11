@@ -25,7 +25,7 @@
 
 * ⚡ Who is taking your life decisions - You or Algorithm?
 
-* 🌐 Learn more about what I do by visiting [my website!](https://sourabhkumar.tech/)
+* 🌐 Learn more about what I do by visiting [my website!](https://sourabhkumar47.framer.website/)
 
 <!--
 Connect with me
