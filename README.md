@@ -5,14 +5,6 @@
 I design and build Android applications that focus on clarity, performance, and real user needs.
 </p>
 
-<br/>
-
-<img 
-  src="https://github.com/sourabhkumar47/sourabhkumar47/blob/main/8423124_3900527.jpg"
-  align="right"
-  height="420"
-  width="420"
-/>
 
 ### 👨‍💻 Who I Am
 I’m an Android developer with a strong computer science background who enjoys solving problems end-to-end — from data structures to UI polish.
